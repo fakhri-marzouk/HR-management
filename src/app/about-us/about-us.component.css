@@ -1,0 +1,43 @@
+.laptop-image {
+	width:90%;
+}
+
+.about-heading {
+	color:#000;
+	font-size:250%;
+	font-weight:500;
+	margin-bottom:50px;
+}
+
+.about-para {
+	color:#555;
+	margin-bottom:50px;
+}
+
+.about-box {
+	margin-top:150px;
+}
+
+.about-box:first-child {
+	text-align:left;
+	padding:0 5%;
+}
+.about-box:last-child {
+	text-align:right;
+}
+
+.about-section {
+	padding-bottom:20px;
+}
+
+.btn-ghost:link,
+.btn-ghost:visited {
+	border:2px solid #1dc8cc;
+	color:#1dc8cc;
+}
+
+.btn-ghost:hover,
+.btn-ghost:active {
+	background-color:#1dc8cc;
+	color:#fff;
+}
