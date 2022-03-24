@@ -14,6 +14,7 @@ import { JobsComponent } from './jobs/jobs.component';
 import { AuthentificationComponent } from './authentification/authentification.component';
 import { RecruterComponent } from './recruter/recruter.component';
 import { HeaderComponent } from './header/header.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { HeaderComponent } from './header/header.component';
     JobsComponent,
     AuthentificationComponent,
     RecruterComponent,
-    HeaderComponent
+    HeaderComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,

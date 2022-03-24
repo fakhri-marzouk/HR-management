@@ -28,7 +28,7 @@ p {
 }
 
 .address span {
-  color: #7B1FA2
+  color: #1dc8cc
 }
 
 .icons {
@@ -59,7 +59,7 @@ p {
 .inputs input:focus {
   margin-bottom: 13px;
   border: none;
-  border-bottom: 2px solid #7B1FA2;
+  border-bottom: 2px solid #1dc8cc;
   box-shadow: none
 }
 
@@ -74,7 +74,7 @@ p {
 .inputs textarea:focus {
   margin-bottom: 13px;
   border: none;
-  border-bottom: 2px solid #7B1FA2;
+  border-bottom: 2px solid #1dc8cc;
   box-shadow: none;
   resize: none
 }

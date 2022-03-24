@@ -132,7 +132,7 @@
 .display-4 {
   font-family: 'Source Serif Pro', serif;
   position: absolute;
-  bottom: 300px;
+  bottom: 350px;
   width: 100%;
   text-align: center;
   color: #ffffff;
@@ -141,10 +141,10 @@
 .lead {
   font-family: 'Source Serif Pro', serif;
   position: absolute;
-  bottom: 260px;
+  bottom: 300px;
   width: 100%;
   text-align: center;
-  color:#1dc8cc
+  color:#797979
 }
 
 .navbar.scrolled {
@@ -248,4 +248,18 @@
       transform: scale(1.3) translateY(-90px) rotate(360deg);
       opacity: 0
   }
+}
+.btn-ghost{
+  margin-bottom: 220px;
+}
+.btn-ghost:link,
+.btn-ghost:visited {
+	border:2px solid #1dc8cc;
+	color:#1dc8cc;
+}
+
+.btn-ghost:hover,
+.btn-ghost:active {
+	background-color:#1dc8cc;
+	color:#fff;
 }
